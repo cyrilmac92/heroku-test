@@ -1,0 +1,1 @@
+web: java -Dserver.port=$PORT -jar  target/heroku-learn-service-0.0.1-SNAPSHOT.jar
